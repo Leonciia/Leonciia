@@ -13,7 +13,7 @@
 
 - 💼 Looking for opportunities in **Web Development, Data Science, & Software Engineering**
 
-- ⚡ Fun fact: I’m also a **Natural Hairstylist**! 💇‍♀️
+<!--- ⚡ Fun fact: I’m also a **Natural Hairstylist**! 💇‍♀️-->
 
 ---
 
