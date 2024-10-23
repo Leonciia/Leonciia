@@ -27,21 +27,21 @@
 
 ---
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonciia&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonciia&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Leonciia&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
+</p>-->
 
 ---
 
-## 🏆 GitHub Trophies:
+<!--## 🏆 GitHub Trophies:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonciia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+ </p> -->
 
 ---
 
