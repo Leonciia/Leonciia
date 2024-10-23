@@ -25,7 +25,7 @@
 <a href="https://github.com/Leonciia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
+<!-- --- -->
 
 <!--## 📊 GitHub Stats:
 
@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leonciia&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>-->
 
----
+<!-- --- -->
 
 <!--## 🏆 GitHub Trophies:
 
@@ -43,7 +43,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leonciia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
  </p> -->
 
----
+--- 
 
 ## 👀 Visitor Count:
 <p align="center">
