@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Web+Developer;Freelancer;Software+Engineering+Student;Learning+Data+Science+and+AI;Always+learning+new+tech!" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+<!---## 🚀 About Me
 
 - 🔭 I’m currently working on **Full Stack Web Development Projects**
 
@@ -13,7 +13,7 @@
 
 - 💼 Looking for opportunities in **Web Development, Data Science, & Software Engineering**
 
-<!--- ⚡ Fun fact: I’m also a **Natural Hairstylist**! 💇‍♀️-->
+ ⚡ Fun fact: I’m also a **Natural Hairstylist**! 💇‍♀️-->
 
 ---
 
