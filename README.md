@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Léoncia Rasoarivelo 👋</h1>
+<h1 align="center">Hello, I'm Léoncia Rasoarivelo *-*</h1>
 <!-- <h3 align="center">A passionate Junior Web Developer and Data Science Enthusiast</h3> -->
 
 <!--
