@@ -1,9 +1,11 @@
 <h1 align="center">Hello, I'm Léoncia Rasoarivelo 👋</h1>
 <!-- <h3 align="center">A passionate Junior Web Developer and Data Science Enthusiast</h3> -->
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Web+Developer" alt="Typing SVG" />
 </p>
+-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=QA+Tester" alt="Typing SVG" />
 </p>
